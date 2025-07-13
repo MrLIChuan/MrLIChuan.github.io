@@ -1,4 +1,3 @@
-<!-- 2025-12-05-globecom-sn-fusion.md -->
 ---
 title: "Enhancing Spatio-Temporal Forecasting with Spatial Neighbourhood Fusion: COVID-19 Mobility in Peru"
 collection: publications
