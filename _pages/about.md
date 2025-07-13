@@ -15,7 +15,7 @@ My research focuses on:
 - Geospatial AI and graph neural networks (GNNs)
 
 I also serve as a teaching associate for:
-- Algorithms in C/C++/Java (Polytech Sorbonne, ENSTA Paris)
+- Algorithms in C/C++/Java (Polytech Sorbonne, Sorbonne Université, ENSTA Paris, Institut Polytechnique de Paris)
 - Deep Reinforcement Learning (ESIEE Paris)
 
 ---
