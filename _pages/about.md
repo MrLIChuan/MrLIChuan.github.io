@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m **Chuan Li**, a PhD candidate at **Sorbonne University** and **Université Paris Cité**, working in collaboration with LIPADE and Institut Polytechnique de Paris.
+Hi! I’m **Chuan Li**, a PhD candidate at **Sorbonne University** and jointly affiliated with **LIPADE (Université Paris Cité)** and **SAMOVAR (Institut Polytechnique de Paris)**.
 
 My research focuses on:
 - Large-scale optimisation and intelligent transport systems
