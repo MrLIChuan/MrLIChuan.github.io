@@ -1,152 +1,221 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Chuan Li",
+    "email": "lichuancotton@gmail.com",
+    "phone": "+33 7 61 47 91 49",
+    "website": "https://mrlichuan.github.io",
+    "summary": "PhD candidate in Computer Science (Sorbonne University & Université Paris Cité) researching large-scale optimisation, human-mobility analytics and geospatial AI; teaching C/C++/Java and deep reinforcement learning.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "8 Rue Eric Tabarly",
+      "postalCode": "91300",
+      "city": "Massy",
+      "countryCode": "FR",
+      "region": "Île-de-France"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "MIaFUvIAAAAJ",
+        "url": "https://scholar.google.fr/citations?user=MIaFUvIAAAAJ"
       },
       {
-        "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "network": "LinkedIn",
+        "username": "chuan-li-",
+        "url": "https://www.linkedin.com/in/chuan-li-/"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "MrLIChuan",
+        "url": "https://github.com/MrLIChuan"
       }
     ]
   },
-  "work": [],
+
+  "work": [
+    {
+      "company": "LIPADE, Université Paris Cité & Institut Polytechnique de Paris",
+      "position": "PhD Researcher / Teaching Associate",
+      "startDate": "2022-10",
+      "endDate": "",
+      "summary": "Deep-learning models (GNN, RL) for human-mobility prediction, EV-charging optimisation and spatio-temporal analytics; teach Algorithms (C, Java) and Deep RL.",
+      "highlights": [
+        "Fusion of spatial data, network optimisation and energy-efficient transport planning",
+        "Course support at ENSTA Paris (IN101) & ESIEE Paris (Deep RL)"
+      ]
+    },
+    {
+      "company": "CAMEL-AI.org",
+      "position": "Technical Illustrator & Communication Ambassador (part-time)",
+      "startDate": "2024-11",
+      "endDate": "",
+      "summary": "Create technical illustrations and outreach content to democratise responsible AI.",
+      "highlights": []
+    },
+    {
+      "company": "Telecom SudParis, Institut Polytechnique de Paris",
+      "position": "Research Engineer – Spatio-Temporal Data Analysis",
+      "startDate": "2022-05",
+      "endDate": "2022-10",
+      "summary": "Designed grid-based frameworks and ML pipelines for large-scale mobile-phone data.",
+      "highlights": []
+    },
+    {
+      "company": "Group Renault, Alliance Engineering Dept. (DEA-TDV)",
+      "position": "Research Engineer",
+      "startDate": "2018-09",
+      "endDate": "2021-08",
+      "summary": "Optimised ADAS reliability with ML-driven scenario prioritisation; built VBA/Python dashboards to monitor real-time vehicle sensor performance.",
+      "highlights": []
+    },
+    {
+      "company": "TASFAIM (start-up)",
+      "position": "Co-Founder & CTO (part-time)",
+      "startDate": "2021-10",
+      "endDate": "2022-05",
+      "summary": "Applied geospatial analytics to identify high-demand areas and guide scalable infrastructure deployment.",
+      "highlights": []
+    },
+    {
+      "company": "Schneider Electric",
+      "position": "Engineering Intern",
+      "startDate": "2018-04",
+      "endDate": "2018-07",
+      "summary": "Designed fingerprint-authentication module for industrial control terminals.",
+      "highlights": []
+    }
+  ],
+
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Sorbonne University & Université Paris Cité",
+      "area": "Ph.D. in Computer Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2022-10",
+      "endDate": "2025-09",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Heidelberg University",
+      "area": "Visiting Scholar (4EU+)",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2025-03",
+      "endDate": "2025-10",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Massachusetts Institute of Technology",
+      "area": "MicroMaster’s in Statistics & Data Science",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "startDate": "2021-09",
+      "endDate": "2022-10",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Sorbonne University – Polytech Sorbonne",
+      "area": "M.Eng. in Electrical & Computer Science (GPA 17.83/20)",
+      "studyType": "",
+      "startDate": "2018-09",
+      "endDate": "2021-07",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "University of Poitiers",
+      "area": "B.Sc. (Year 2) in Electrical & Computer Engineering",
+      "studyType": "",
+      "startDate": "2016-09",
+      "endDate": "2018-07",
       "gpa": null,
       "courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "",
+      "keywords": ["Python", "C/C++", "Java", "R", "Scala", "SQL", "MATLAB", "JavaScript", "PHP", "VHDL", "VBA"]
+    },
+    {
+      "name": "ML & Data",
+      "keywords": ["PyTorch", "TensorFlow", "Spark", "GNNs", "Reinforcement Learning", "Geospatial Science", "Data Fusion"]
+    },
+    {
+      "name": "Tools",
+      "keywords": ["QGIS", "CARLA", "SCANeR", "VISIM", "LaTeX", "Git", "Office", "MQTT", "RTOS"]
+    }
+  ],
+
+  "languages": [
+    { "language": "Chinese", "fluency": "native" },
+    { "language": "French",  "fluency": "fluent" },
+    { "language": "English", "fluency": "TOEIC 855" },
+    { "language": "Japanese","fluency": "basic" }
+  ],
+
+  "interests": [
+    { "name": "Ultra-trail running" },
+    { "name": "Marathon" },
+    { "name": "Swimming" },
+    { "name": "Cycling" },
+    { "name": "Photography" }
+  ],
+
   "references": [],
+
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Large-Scale Optimisation of Electric-Vehicle Charging Infrastructure",
+      "publisher": "Proc. ACM SIGSPATIAL",
+      "releaseDate": "2024-10-30",
+      "website": "",
+      "summary": "Best Paper Award; oral presentation at SIGSPATIAL 2024."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Assessing the Usefulness of Digital Contact Tracing Using Real-World Contact Data",
+      "publisher": "Nature Human Behaviour (under review)",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Fine-Grained Urban-Grid Clustering of Mobile-Phone Metadata with Deep Spatio-Temporal Clustering",
+      "publisher": "IEEE IJCNN 2025 (accepted)",
+      "releaseDate": "",
+      "website": "",
+      "summary": ""
     }
   ],
+
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "name": "Large-Scale Optimisation of EV Charging Infrastructure",
+      "event": "ACM SIGSPATIAL 2024",
+      "date": "2024-11-01",
+      "location": "Atlanta, GA, USA",
+      "description": "Oral presentation, Best Paper Award."
     }
   ],
+
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Algorithms (C)",
+      "institution": "ENSTA Paris, IN101",
+      "date": "2023-09-01",
+      "role": "Teaching Associate",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Deep Reinforcement Learning",
+      "institution": "ESIEE Paris",
+      "date": "2024-02-01",
+      "role": "Lecturer",
       "description": ""
     }
   ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
-  ]
+
+  "portfolio": []
 }
