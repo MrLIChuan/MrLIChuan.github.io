@@ -1,4 +1,3 @@
-<!-- 2025-07-15-icml-groundwater.md -->
 ---
 title: "An Applied ML Pipeline for Geospatial Groundwater-Level Classification Supporting Early Warning & Resource Planning"
 collection: publications
