@@ -1,4 +1,3 @@
-<!-- 2025-09-10-bibm-triangulation.md -->
 ---
 title: "Semi-Automatic Connection Recovery of 3D Tubular Structure Skeletons via MST and Filtered Delaunay"
 collection: publications
