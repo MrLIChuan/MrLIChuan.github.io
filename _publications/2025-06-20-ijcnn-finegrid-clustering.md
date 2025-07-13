@@ -1,4 +1,3 @@
-<!-- 2025-06-20-ijcnn-finegrid-clustering.md -->
 ---
 title: "Fine-Grained Urban-Grid Clustering of Mobile-Phone Metadata with Deep Spatio-Temporal Clustering"
 collection: publications
