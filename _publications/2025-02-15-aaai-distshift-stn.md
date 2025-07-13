@@ -1,4 +1,3 @@
-<!-- 2025-02-15-aaai-distshift-stn.md -->
 ---
 title: "Distribution Shift for Spatio-Temporal Networks"
 collection: publications
