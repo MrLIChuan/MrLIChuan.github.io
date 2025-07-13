@@ -28,6 +28,27 @@ I also serve as a teaching associate for:
 
 ---
 
+---
+
+### 🧑‍🏫 Teaching Experience  (2022 – 2025)
+
+| Academic Year | Course (Module Code) | Role | Institution |
+|---------------|----------------------|------|-------------|
+| 2024/25 | Architecture des ordinateurs (EPU-F5-IAR) | Intervenant | Polytech Sorbonne |
+| 2024/25 | Informatique Générale (EPU-N5-IGE) | Chargé d’enseignement | Polytech Sorbonne |
+| 2024/25 | Programmation Objet JAVA (EPU-E7-IJV) | Responsable pédagogique | Polytech Sorbonne |
+| 2024/25 | Algorithmique & Programmation (C) | Intervenant | ENSTA Paris (IN101) |
+| 2024/25 | Deep Reinforcement Learning | Lecturer | ESIEE Paris |
+| 2023/24 | Architecture des ordinateurs (EPU-F5-IAR) | Intervenant | Polytech Sorbonne |
+| 2023/24 | Programmation Objet JAVA (EPU-E7-IJV) | Responsable pédagogique | Polytech Sorbonne |
+| 2023/24 | Mise à niveau (EPU-F5-DAN) | Intervenant | Polytech Sorbonne |
+| 2023/24 | Outils pour l’informatique (EPU-F5-IOP) | Intervenant | Polytech Sorbonne |
+| 2022/23 | Algorithmique & Programmation (C) | Intervenant | Polytech Sorbonne |
+
+> *Highlights*: Designed 11 Java assessments, supervised \>10 practical exams, and mentored capstone RL projects using PyTorch & OpenAI Gym.
+
+---
+
 ### 🏆 Recent Awards
 - 🥇 **1st Place**, ACM SIGSPATIAL GIS Cup 2024 – *EV Charging Optimisation*  
 - 🥉 **3rd Place**, Datathon Sécurité Ferroviaire 2025 – *Rail Risk Prediction*  
