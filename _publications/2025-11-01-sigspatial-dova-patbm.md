@@ -1,4 +1,3 @@
-<!-- 2025-11-01-sigspatial-dova-patbm.md -->
 ---
 title: "DOVA-PATBM: An Adaptive & Scalable Framework for Optimising Large-Scale EV-Charging Infrastructure"
 collection: publications
