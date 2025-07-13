@@ -1,4 +1,3 @@
-<!-- 2025-04-02-aaai-groundwater-mas.md -->
 ---
 title: "Fusing Multi-Agent Systems for Real-Time Groundwater Early Warning"
 collection: publications
