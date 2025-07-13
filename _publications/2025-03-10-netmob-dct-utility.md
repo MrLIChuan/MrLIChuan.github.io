@@ -1,4 +1,3 @@
-<!-- 2025-03-10-netmob-dct-utility.md -->
 ---
 title: "On the Utility of Digital Contact Tracing on Empirical Contact Network"
 collection: publications
