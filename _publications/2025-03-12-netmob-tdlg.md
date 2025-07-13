@@ -1,4 +1,3 @@
-<!-- 2025-03-12-netmob-tdlg.md -->
 ---
 title: "TDLG at Scale: Modeling Co-Location Events from Large-Scale Human Mobility Data"
 collection: publications
