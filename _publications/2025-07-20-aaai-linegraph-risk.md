@@ -1,4 +1,3 @@
-<!-- 2025-02-20-aaai-linegraph-risk.md -->
 ---
 title: "Nation-Scale Risk Mapping from Human Mobility Data Using Time-Decayed Line Graphs"
 collection: publications
