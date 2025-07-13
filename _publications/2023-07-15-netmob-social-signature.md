@@ -1,4 +1,4 @@
-<!-- 2023-07-15-netmob-social-signature.md -->
+
 ---
 title: "Spatio-Temporal Analysis of Mobile Service Consumption for Social-Signature Clustering"
 collection: publications
