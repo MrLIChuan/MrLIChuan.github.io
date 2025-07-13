@@ -39,7 +39,7 @@ I also serve as a teaching associate for:
 
 ### 📄 CV & Links
 
-- [📥 Download CV (PDF)](files/cv.pdf)
+- [📥 Download CV (PDF)](files/CV.pdf)
 - [📚 Google Scholar](https://scholar.google.fr/citations?user=MIaFUvIAAAAJ)
 - [🐙 GitHub](https://github.com/MrLIChuan)
 - [💼 LinkedIn](https://www.linkedin.com/in/chuan-li-/)
