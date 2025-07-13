@@ -32,6 +32,8 @@ I also serve as a teaching associate for:
 - 🥇 **1st Place**, ACM SIGSPATIAL GIS Cup 2024 – *EV Charging Optimisation*  
 - 🥉 **3rd Place**, Datathon Sécurité Ferroviaire 2025 – *Rail Risk Prediction*  
 - 🧠 Top 5, Mistral AI × Alan Hackathon – *Healthcare RAG Assistant*
+- 🏅 **Honorable Mention**, Hi! PARIS Hackathon 2024 – *AI for Society*  
+  📄 [View Certificate](https://www.smartcertificate.com/SmartDiploma/?1%7cbd095e5f-ebca-4add-a46e-b26a027be6c1%7cad6b2667-0f49-4a9a-a2a1-717144816438#/)
 
 ---
 
