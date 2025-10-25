@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chuan Li — PhD Candidate in Geospatial AI"
+title: "Chuan Li — PhD Candidate in Computer Science & AI"
 author_profile: true
 redirect_from: 
   - /about/
