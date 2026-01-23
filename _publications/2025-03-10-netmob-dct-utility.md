@@ -3,7 +3,7 @@ title: "On the Utility of Digital Contact Tracing on Empirical Contact Network"
 collection: publications
 permalink: /publication/netmob-dct-utility
 date: 2025-03-10
-venue: "NetMob 2025 (under review)"
+venue: "NetMob 2025 (accepted)"
 authors: [Chuan Li, Vincent Gauthier, Marcelo Nunez del Prado Cortez, Harold Alatrista-Salas, Hassine Moungla]
 citation: 'Li C. *et al.* On the Utility of Digital Contact Tracing on Empirical Contact Network. NetMob 2025 (accepted).'
 paperurl: ""
