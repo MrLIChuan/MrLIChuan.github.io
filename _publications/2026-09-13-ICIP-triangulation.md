@@ -1,7 +1,7 @@
 ---
 title: "Semi-Automatic Connection Recovery of 3D Tubular Structure Skeletons via MST and Filtered Delaunay"
 collection: publications
-permalink: /publication/bibm-triangulation
+permalink: /publication/icip-triangulation
 date: 2026-09-13
 venue: "IEEE ICIP 2026 (under review)"
 authors: [Ran Yang, Chuan Li]
