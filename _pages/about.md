@@ -64,4 +64,10 @@ I also serve as a teaching associate for:
 - [🐙 GitHub](https://github.com/MrLIChuan)
 - [💼 LinkedIn](https://www.linkedin.com/in/chuan-li-/)
 
- {% include visitor-map.html %}
+### Visitors
+
+<div style="text-align:center; margin: 30px 0;">
+  <a href="https://www.flagcounter.me/details/gGl">
+    <img src="https://www.flagcounter.me/gGl/" alt="Visitor Map" style="max-width:100%; height:auto;">
+  </a>
+</div>
