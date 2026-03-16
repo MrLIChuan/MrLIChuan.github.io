@@ -6,7 +6,7 @@ date: 2025-03-10
 venue: "NetMob 2025 (accepted)"
 authors: [Chuan Li, Vincent Gauthier, Marcelo Nunez del Prado Cortez, Harold Alatrista-Salas, Hassine Moungla]
 citation: 'Li C. *et al.* On the Utility of Digital Contact Tracing on Empirical Contact Network. NetMob 2025 (accepted).'
-paperurl: ""
+paperurl: "https://hal.science/hal-05482673/document"
 abstract: >
   Analysis of coverage thresholds and delay sensitivity for app-based tracing on dense proximity graphs.
 ---
