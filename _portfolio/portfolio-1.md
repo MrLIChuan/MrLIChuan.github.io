@@ -4,7 +4,7 @@ excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG
 collection: portfolio
 ---
 
-
+"<br/><img src='/images/IMG_5284.png'>"
 忽然想起来法国也有十一年了，一直以来对回国的想法从原先的不清晰和不明朗，慢慢的开始对一些深层次的世界观有了梳理。
 十多年前来法留学面签的时候，动机是学习电气自动化，高铁等技术，后面回国上班，这一待，十多年就过去了，博士毕业，找工作，工作，申请教职。慢慢的，自我感觉融入了这个让我有时候有一些隔阂感，但又特别包容的国家。
 
