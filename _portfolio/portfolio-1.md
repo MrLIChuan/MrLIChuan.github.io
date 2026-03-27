@@ -1,7 +1,12 @@
 ---
-title: "Portfolio item number 1"
+title: "关于一些思考"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/IMG_5284.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+忽然想起来法国也有十一年了，一直以来对回国的想法从原先的不清晰和不明朗，慢慢的开始对一些深层次的世界观有了梳理。
+十多年前来法留学面签的时候，动机是学习电气自动化，高铁等技术，后面回国上班，这一待，十多年就过去了，博士毕业，找工作，工作，申请教职。慢慢的，自我感觉融入了这个让我有时候有一些隔阂感，但又特别包容的国家。
+
+后来时不时又想起多年前看过一个关于身份认同感的讨论会视频，有时候也在问自己，是留在国外自由自在的享受均贫体感，还是回国加入内卷的大军，感觉进入高中以后，一直在颠沛流离。以前以很多经验与认知去做判断，但是唯独忘记了这个世界也同时在变化，例如很多可爱的牵挂，又或者家人对我的吸引力越来越随着时间的推移 加深，在何去何从之间，我总是在想，那个选项才是最中庸的选项，纷纷扰扰的世界中，我也不明白结婚的真谛是什么，为了迎合很多外界的期待，还是想转换身份去体验新的生活节奏，我觉得，唯有 爱 才能促使很多核心的驱动力在运转。 想到这，去哪儿生活又会有什么变化呢，薪水够花，内心平静，因为爱对将来充满期待，健健康康的活着体验人间，看花开花落，看春夏秋冬。
+
