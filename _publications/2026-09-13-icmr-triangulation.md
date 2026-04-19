@@ -3,7 +3,7 @@ title: "Semi-Automatic Connection Recovery of 3D Tubular Structure Skeletons via
 collection: publications
 permalink: /publication/icip-triangulation
 date: 2026-09-13
-venue: "ACM ICMR 2026 (under review)"
+venue: "ACM ICMR 2026 (accepted)"
 authors: [Ran Yang, Chuan Li]
 citation: 'Yang R., Li C. Semi-Automatic Connection Recovery via MST & Filtered Delaunay Triangulation. ACM ICMR 2026 (under review).'
 paperurl: ""
