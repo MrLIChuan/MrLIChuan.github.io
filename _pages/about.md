@@ -21,8 +21,7 @@ I also serve as a teaching associate for:
 ---
 
 ### 🎓 Education
-- **Ph.D. in Computer Science**, Sorbonne University & Université Paris Cité (2022–2025)  
-- **Visiting Scholar**, Heidelberg University (2025)  
+- **Ph.D. in Computer Science**, Sorbonne University & Université Paris Cité (2022–2025)   
 - **MicroMaster**, MIT – Statistics & Data Science  
 - **M.Eng.**, Polytech Sorbonne – GPA 17.83/20, Rank 2/48
 
