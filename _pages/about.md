@@ -48,7 +48,6 @@ I also serve as a teaching associate for:
 ---
 
 ### 🏆 Recent Awards
-- 🥇 **Best Paper Awards**, ACM SIGSPATIAL 2024 – *EV Charging Station's Optimisation*
 - 🥇 **1st Place**, ACM SIGSPATIAL GIS Cup 2024 – *EV Charging Optimisation*  
 - 🥉 **3rd Place**, Datathon Sécurité Ferroviaire 2025 – *Rail Risk Prediction*  
 - 🧠 Top 5, Mistral AI × Alan Hackathon – *Healthcare RAG Assistant*
