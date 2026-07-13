@@ -14,7 +14,7 @@ Hi! I’m **Chuan Li**, an AI researcher specializing in **intelligent mobility,
 
 I am currently a **Postdoctoral Researcher at Institut VEDECOM**, where I contribute to the **Horizon Europe MetaCCAZE project**. My work focuses on urban mobility demand forecasting, park-and-ride optimisation, intelligent transportation systems, traffic simulation, and generative mobility scenarios.
 
-I am also completing my **Ph.D. in Computer Science** at **Sorbonne University**, with research affiliations including **LIPADE at Université Paris Cité** and **SAMOVAR at Institut Polytechnique de Paris**.
+I am also completing my **Ph.D. in Computer Science at Sorbonne University**, with research affiliations including **LIPADE at Université Paris Cité** and **SAMOVAR at Institut Polytechnique de Paris**.
 
 My research interests include:
 
@@ -34,7 +34,7 @@ I have also taught computer science and artificial intelligence courses at **Pol
 
 ### Postdoctoral Researcher — Institut VEDECOM
 
-I contribute to **MetaCCAZE**, a European Union **Horizon Europe** project developing innovative solutions for connected, cooperative and automated mobility.
+I contribute to **MetaCCAZE**, a European Union **Horizon Europe** project developing innovative solutions for connected, cooperative, and automated mobility.
 
 My current work includes:
 
@@ -43,18 +43,19 @@ My current work includes:
 * Intelligent transportation systems and traffic simulation
 * Generation of realistic mobility and traffic scenarios
 * Data-driven decision tools for sustainable urban mobility
-* Application of machine learning and generative AI to transport systems
+* Applications of machine learning and generative AI to transport systems
 
 ---
 
 ## 🎓 Education
 
-* **Ph.D. Candidate in Computer Science**, Sorbonne University & Université Paris Cité, 2022–Present
-* **Visiting Researcher**, Heidelberg University, 2025
+* **Ph.D. in Computer Science**, Sorbonne University & Université Paris Cité, 2022–2025
+* **Business Foundations Programme (BFC)**, INSEAD
 * **MITx MicroMasters Program in Statistics and Data Science**, Massachusetts Institute of Technology
-* **M.Eng. in Computer Science**, Polytech Sorbonne
-  GPA: **17.83/20**, Rank: **2/48**
+* **M.Eng. in Computer Science**, Polytech Sorbonne  
+  GPA: **17.83/20**, Graduated in the **Top 5% of the cohort**
 * **B.Sc.**, Université de Poitiers
+
 
 ---
 
@@ -89,7 +90,7 @@ I have also worked on real-world human-contact and mobility datasets to study:
 ## 📚 Selected Publications and Research Outputs
 
 * **Large-Scale Optimisation of EV Charging Infrastructure**
-  ACM SIGSPATIAL 2024 — Oral Presentation and **ACM GISCUP Award**
+  ACM SIGSPATIAL 2024 — Oral Presentation and ACM GIS Cup Award
 
 * **Assessing the Usefulness of Digital Contact Tracing Using Real-World Contact Data**
   Accepted in *Scientific Reports*, Nature Portfolio
@@ -103,15 +104,16 @@ I have also worked on real-world human-contact and mobility datasets to study:
 * **Fine-Grained Urban-Grid Clustering for Mobility Analysis**
   Accepted at IJCNN
 
-* Research on groundwater early-warning systems accepted at the **ICML NewInML Workshop**
+* **Groundwater Early-Warning Research**
+  Accepted at the ICML NewInML Workshop
 
-* Ongoing work on:
+Ongoing research topics include:
 
-  * Spatiotemporal mobility forecasting
-  * Distribution shift and robust graph learning
-  * AI agents for scientific and professional workflows
-  * Privacy-aware patent-analysis assistants
-  * Agent-ready conversational commerce systems
+* Spatiotemporal mobility forecasting
+* Distribution shift and robust graph learning
+* AI agents for scientific and professional workflows
+* Privacy-aware patent-analysis assistants
+* Agent-ready conversational commerce systems
 
 ---
 
@@ -139,7 +141,7 @@ I have also worked on real-world human-contact and mobility datasets to study:
 * 🥇 **1st Place — Cursor Track, RAISE Summit Hackathon 2026**
   Developed **AssembleAI**, an AI-powered assembly assistant combining computer vision, voice interaction, 3D visualisation, and augmented reality.
 
-* 🏆 **ACM GISCUP Award — ACM SIGSPATIAL 2024**
+* 🏆 **ACM GIS Cup Award — ACM SIGSPATIAL 2024**
   *Large-Scale Optimisation of EV Charging Infrastructure*
 
 * 🥇 **1st Place — ACM SIGSPATIAL GIS Cup 2024**
@@ -186,6 +188,7 @@ I am open to collaborations in:
 * Generative AI and AI-agent systems
 * Horizon Europe and international research projects
 * Research commercialisation and deep-tech entrepreneurship
+
 
 
 ### 📄 CV & Links
