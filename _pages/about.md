@@ -1,13 +1,10 @@
 ---
-
 permalink: /
 title: "Chuan Li — AI Researcher in Mobility, Geospatial Intelligence & Intelligent Transportation"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
 
 Hi! I’m **Chuan Li**, an AI researcher specializing in **intelligent mobility, geospatial artificial intelligence, graph learning, and data-driven decision systems**.
