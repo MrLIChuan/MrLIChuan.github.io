@@ -44,8 +44,8 @@ My current work includes:
 
 ## 🎓 Education
 
-* **Ph.D. in Computer Science**, Sorbonne University & Université Paris Cité, 2022–2025
-* **Business Foundations Programme**, INSEAD & Sorbonne Université
+* **Ph.D. in Computer Science**, Sorbonne University; Université Paris Cité & Institut Polytechnique de Paris, 2022–2025
+* **Business Foundations Programme**, INSEAD
 * **MITx MicroMasters Program in Statistics and Data Science**, Massachusetts Institute of Technology
 * **M.Eng. in Computer Science**, Polytech Sorbonne  
   GPA: **17.83/20**, graduated in the **Top 5% of the cohort**
