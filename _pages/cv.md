@@ -29,8 +29,6 @@ Work experience
   *Grid-based spatial ML for mobile-phone metadata*
 * **Research Engineer**, Renault Group (2018–2021)  
   *Optimized ADAS reliability, built performance dashboards*
-* **Co-Founder & CTO**, TASFAIM (2021–2022)  
-  *Geospatial infrastructure deployment strategy*
 * **Engineering Intern**, Schneider Electric (2018)  
   *Biometric module design for industrial terminals*
 
