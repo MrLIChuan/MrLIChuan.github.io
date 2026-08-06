@@ -12,12 +12,12 @@ redirect_from:
 Education
 ======
 * **Ph.D. in Computer Science**, Sorbonne Université & Université Paris Cité (2022–2025)  
-  *Full doctoral scholarship; Thesis: "Proactive Mobility, Naming and Caching in Next-Generation Mobile Services."*
+  *Full doctoral scholarship; Thesis: "Spatio-Temporal Modeling for Public Health and Electric Mobility from Digital Contact Tracing to Equitable EV-Charging Networks."*
 * **Visiting Scholar**, Heidelberg University, Germany (2025)  
   *4EU+ Research on STGNN & Physics-Informed Models for Epidemic Spread*
 * **MicroMaster**, MIT – Statistics and Data Science (2021–2022)
 * **M.Eng. in Electrical & Computer Science**, Sorbonne Université – GPA 17.83/20, Rank 2/48 (2018–2021)
-* **B.Sc. in Electrical & Computer Engineering**, University of Poitiers – Rank 8/120 (2016–2018)
+* **B.Sc. in Electrical & Computer Engineering**, University of Poitiers – Rank 8/120 (2016–2018) & Polytech Sorbonne, Sorbonne Université  (2018–2019)
 
 Work experience
 ======
